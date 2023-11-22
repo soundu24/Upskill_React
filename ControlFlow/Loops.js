@@ -78,7 +78,7 @@ while(i < 5){
 
     //for-of loop 
     //no need of index
-    //iterate over elements in an array
+    //iterate over elements in an array or maps
     for(let index of colors){
         console.log(index);
     }
